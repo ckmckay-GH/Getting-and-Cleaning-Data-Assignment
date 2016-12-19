@@ -6,7 +6,7 @@ This README.md file documents my submission for the week 4 peer review assignmen
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The submission requirements included suubmitting an R script called run_analysis.R that creates a tidy dataset from the merged source files and a second data set that contains averages the each unique combination of subject, activity, and feature contained withing the inpout files.
+The submission requirements included submitting an R script called run_analysis.R that creates a tidy dataset from the merged source files and a second data set that contains averages the each unique combination of subject, activity, and feature contained withing the inpout files.
 
 The assignment also required this README.md file expaining the run_analysis.R script and a CodeBook.md that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
 
@@ -48,5 +48,5 @@ Files 	README.md
 		tidy_averages.txt
 		
 ## GitHub
+https://github.com/ckmckay-GH/Getting-and-Cleaning-Data-Assignment
 
-# Getting-and-Cleaning-Data-Assignment
