@@ -75,4 +75,4 @@ tidy_average_data <- rename(tidy_average_data, average = measure)
 head(tidy_average_data)
 
 ## Submission file
-write.table(tidy_average_data, file = "./tidy_averages.txt", row.name=FALSE)
+## write.table(tidy_average_data, file = "./tidy_averages.txt", row.name=FALSE)
